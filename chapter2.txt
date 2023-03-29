@@ -1,1 +1,1 @@
-Capítulo 2 da aula de git da Udemy.
+Capítulo 2 da aula de git da Udemy, na branch alien-plot.
